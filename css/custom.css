@@ -1,0 +1,13 @@
+/* themes/butterfly/source/css/custom.css */
+
+/* 让内容区域的宽度变为 1700px */
+#content-inner {
+    max-width: 1700px;
+    /* 让内容居中显示 */
+    justify-content: center;
+}
+
+/* 让侧边栏的宽度变为 内容区域的20% */
+#aside-content {
+    width: 20%;
+}
